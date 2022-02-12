@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "deneme1",
+      "description": "bu deneme önemlidir",
+      "id": 1
+    },
+    {
+      "title": "deneme2",
+      "description": "ne olacak görelim",
+      "id": 2
+    },
+    {
+      "title": "deneme3",
+      "description": "yapılabilecekler artıyor",
+      "id": 3
+    },
+    {
+      "title": "user ıd geldi mi",
+      "description": "ıssız acun öldü mü",
+      "userId": "109540670463695932095",
+      "id": 4
+    }
+  ]
+}
